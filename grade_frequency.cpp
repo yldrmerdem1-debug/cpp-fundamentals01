@@ -13,7 +13,7 @@ int main() {
             freq[grade]++;
         else {
             cout << "Invalid grade!\n";
-            i--; // tekrar al
+            i--; 
         }
     }
 
