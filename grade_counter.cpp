@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int below50;
-    int above50;
+    int below50 = 0;
+    int above50 = 0;
     int grade;
     for (int i=1;i<=5;i++) {
         cout<<"enter grade of students: "<<endl;
